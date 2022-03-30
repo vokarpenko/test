@@ -1,5 +1,7 @@
 class Feature {
   int hello(String str) {
-    return 0;
+    return 1 + 1;
   }
+
+  void main() {}
 }
