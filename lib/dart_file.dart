@@ -8,4 +8,6 @@ class Feature {
   void log() {
     throw UnimplementedError();
   }
+
+  void func1() {}
 }
