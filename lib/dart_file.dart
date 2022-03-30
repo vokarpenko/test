@@ -4,4 +4,8 @@ class Feature {
   }
 
   void main() {}
+
+  void log() {
+    throw UnimplementedError();
+  }
 }
